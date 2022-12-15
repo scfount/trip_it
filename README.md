@@ -1,2 +1,2 @@
 # TripIt
-MERN Web App to view. manage and share your trips!
+MERN Web App to view, manage and share your trips!
