@@ -1,0 +1,13 @@
+.tripCard:hover {
+  opacity: .8;
+  color: gray;
+}
+
+.smallPoster {
+  user-select: none;
+  width: 200px;
+  height: auto;
+  margin-right: auto;
+
+}
+
